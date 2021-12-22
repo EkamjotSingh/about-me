@@ -1,0 +1,37 @@
+.first {
+    color: white;
+    text-align: center;
+    margin-top: 250px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: 60px;
+    
+}
+
+.first:hover{
+
+    color: white;
+    font-size: 62px;
+    transition: 0.2s;
+
+}
+
+* {
+    font-family: 'Graphik';
+}
+
+.second {
+    
+    text-align: center;
+    color: #89077D;
+    font-size: 35px;
+    
+}
+
+.second:hover{
+    color: #FB06E4;
+    font-size: 36px;
+    transition: 0.2s;
+    
+}
